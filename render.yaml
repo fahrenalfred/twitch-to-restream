@@ -5,6 +5,6 @@ services:
     autoDeploy: false
     envVars:
       - key: TWITCH_USER
-        value: TU_NOMBRE_DE_CANAL_TWITCH
+        value: fahrenalfred
       - key: RESTREAM_KEY
-        value: TU_STREAM_KEY_RESTREAM
+        value: 
