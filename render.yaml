@@ -3,8 +3,8 @@ services:
     name: twitch-to-restream-auto
     env: docker
     autoDeploy: false
-    envVars:
-      - key: TWITCH_USER
-        value: fahrenalfred
-      - key: RESTREAM_KEY
-        value: 
+  envVars:
+  - key: TWITCH_USER
+    value: fahrenalfred
+  - key: RESTREAM_KEY
+    sync: false
